@@ -45,6 +45,6 @@ class Attributes(Mir0xE):
         return langs, specialities, text_editor
 ```
 
-
+**README.md is completely taken from <a href="https://github.com/xKiian">xKiian</a>**
 
 </p>
